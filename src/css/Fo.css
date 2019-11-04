@@ -1,0 +1,18 @@
+.FooterDiv{height: 250px;background-color: white;}
+.foo-container{width: 1200px;margin: 0 auto;padding-top: 25px;}
+.foo-container p{float: left;font-size: 10px;}
+
+.text{width: 1200px;margin: 0 auto;margin-top: 25px;color: rgb(162, 157, 157);font-size: 15px;}
+
+.import{width: 1200px;margin: 0 auto;margin-top: 80px;position: relative;}
+.import p{float: left;color: rgb(162, 157, 157);font-size: 15px;}
+.p11 img{width: 100px;height: 20px;cursor: pointer;}
+.p22 img{width: 120px;height: 50px;cursor: pointer;}
+.p11{position: absolute;left: 0;top: 60;}
+.p22{margin: 0 5px 0 5px;position: absolute;left: 210px;top: -31px;}
+.p33{position: absolute;left: 435px;top: -34px;}
+.p33 img{cursor: pointer;}
+.p44{position: absolute;margin-top: 30px;}
+.p44 a{cursor: pointer;margin-left: 5px;}
+.p44 a:hover{text-decoration: underline;}
+

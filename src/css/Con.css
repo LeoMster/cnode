@@ -1,0 +1,28 @@
+.ConDiv{height:1700px;width: 1200px;margin: 20px auto;}
+
+.con-left{width: 937px;height: 1700px;background-color: ghostwhite;overflow: hidden;}
+.con-right{width: 235px;height: 1640px;}
+
+.right-one{width: 235px;height: 130px;background-color: ghostwhite;}
+.right-one p{margin-left: 6px;}
+.cn{padding-top: 15px;font-size: 13px;}
+.sign{margin-top: 10px;padding-top: 15px;font-size: 5px;}.sign a{color: rgb(126, 122, 122);margin: 0 5px 0 5px;}
+.sign a:hover{text-decoration: underline;cursor: pointer;}
+.btn{
+    font-size: 13px;display: block;width: 125px;height: 40px;background-color: rgb(13, 202, 223);
+    text-align: center;line-height: 40px;color: white;margin-top: 5px;border-radius: 5px;cursor: pointer;
+}
+.btn:hover{background-color: rgb(13, 175, 193)}
+.right-two{width: 235px;background-color: ghostwhite;margin-top: 10px;}
+.right-two img{width: 223px;height: 60px;margin-left: 6px;cursor: pointer;}
+.right-three{height: 200px;font-size: 13px;background-color: ghostwhite;margin-top: 10px;}
+.right-three li{
+    display: block;width: 17em;height: 30px;margin-left: 6px;overflow: hidden;white-space: nowrap;text-overflow:ellipsis;
+    color: rgb(126, 122, 122);cursor: pointer;
+}
+.right-five{background-color: white;}
+.right-five img{width: 200px;height: 100%;padding-left: 6px;cursor: pointer;}
+.adr{font-size: 13px;color: rgb(126, 122, 122);cursor: pointer;text-align: center;padding-bottom: 10px;}
+.adr:hover{text-decoration: underline;}
+.pages{margin: 12px 0 0 10px;}
+

@@ -1,0 +1,14 @@
+.NavContainer{height: 50px;background-color: #444;}
+.NavContainer header{width: 1200px;margin: 0 auto;height: 50px;}
+.NavContainer img{width: 120px;position: relative;top: 6px;cursor: pointer;}
+
+.nav-left{line-height: 50px;}
+.nav-input{
+    width: 250px;height: 25px;margin-left: 20px;padding-left: 10px;background-color: rgb(160, 158, 158);
+    border-radius: 10px;
+}
+.nav-input:hover{background-color: white;}
+
+.nav-right li{display: inline;line-height: 50px;margin-left: 20px;}
+.nav-right li a{color: rgb(160, 158, 158);font-size: 15px;}
+.nav-right li a:hover{color: ghostwhite;}
